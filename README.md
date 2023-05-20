@@ -1,4 +1,13 @@
-# Starter Next/Hardhat Project
+# AVALANCHE MODULE -2
+
+
+## PROJECT DESCRIPTION
+
+
+We have created a PLAYING WITH TENS frontend and we have integrated our Smart Contract into it. If we click on +10 button the value will increase by Ten and if we click on the -10 button it will decrease the value by Ten.
+
+## RUNNING THE CODE 
+
 
 After cloning the github, you will want to do the following to get the code running on your computer.
 
@@ -10,3 +19,16 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+## AUTHORS
+
+
+Clement D' Silva
+
+@clementdsilva047@gmail.com
+
+
+## LICENSE
+
+
+This project is UNLICENSED. 
